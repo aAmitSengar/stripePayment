@@ -1,0 +1,1 @@
+# My Awesome payment plugin
